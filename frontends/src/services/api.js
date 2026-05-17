@@ -3,7 +3,7 @@
 // =======================================
 
 // ✅ LOCAL BACKEND
-const BASE_URL = "http://127.0.0.1:8000";
+const BASE_URL = "https://hiresmart-ai-np7k.onrender.com";
 
 // ❌ OLD RENDER BACKEND
 // const BASE_URL = "https://hiresmarts-backend.onrender.com";
